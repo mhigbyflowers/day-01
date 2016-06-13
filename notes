@@ -1,0 +1,64 @@
+
+/////////////////////////////////////////////////
+
+Day 1::
+
+Introduction to HTML Syntax
+Tags/Elements
+
+
+
+/////////////////////Common HTML Elements/////////////////////////////////
+
+
+>> Block elements     = p,ul,ol,h1-6,li
+
+>> Groups             = header,footer,div,article,figure,caption. (block elements go into groups)
+
+>> Formatting/inline  = a,span,button, strong,em
+
+>> Setup/No Display   = head,body,html,title,meta,link,script
+
+>> Objects/No closing = img,input
+
+>>  Myspace(old)      = br,b,i,center,style*
+
+
+
+/////////////////////Pied_Piper site break down///////////////////////////
+– Header
+  – img
+  – h2
+  – nav
+      – ul
+        – li
+          – a
+- div
+  – h3
+  – hr
+  – p
+  – hr
+  – div
+    – 2x div
+      – img
+      – h4
+      – p
+
+
+        http://www.piedpiper.com/app/themes/pied-piper/dist/images/logo.svg
+
+
+
+
+Git Basics
+
+CSS Syntax
+
+Basic CSS Properties
+
+Homework Workshop
+
+
+
+
+7713f7c8ea8528001a21bf3cdb566720c8d3e0cb
