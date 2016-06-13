@@ -50,7 +50,19 @@ Tags/Elements
 
 
 
-Git Basics
+/////////////////////Git Basics////////////////////////////////////////////////
+
+git init ( gets master started for folder)
+git add 'filename ( add file from folder)
+git commit -m "Start header" ( closes the folder and seals it)
+git push origin master( sends to github.com )
+
+
+/////////////////////Magical Incantation///////////////////////////////////////
+– Make SOME changes ( make stopping points)
+- run 'git add . '
+
+
 
 CSS Syntax
 
