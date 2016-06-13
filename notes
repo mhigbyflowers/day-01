@@ -59,9 +59,10 @@ git push origin master( sends to github.com )
 
 
 /////////////////////Magical Incantation///////////////////////////////////////
-– Make SOME changes ( make stopping points)
-- run 'git add . '
-
+  – Make SOME changes ( make stopping points)
+  - run ' git add . '
+  - run ' git commit -m "description of what changed" '
+  - run ' git push '
 
 
 CSS Syntax
